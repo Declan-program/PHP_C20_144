@@ -33,7 +33,7 @@ and open the template in the editor.
             Wensen: <input type='checkbox' name='bBreakfast'>Ontbijtservice<br/>
             <input type='checkbox' name='b3Courses'>3-gangen menu<br/>
             <input type='checkbox' name='bSauna'>Sauna service<br/>
-            Type kamer:
+            Type kamer: shjahshak
             <select name='iRoomtype'>
                 <option value='0'>Kies een kamer....</option>
                 <option value='1'>2-persoons corona proof</option>
