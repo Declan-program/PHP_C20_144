@@ -38,10 +38,9 @@ and open the template in the editor.
                 <option value='0'>Kies een kamer....</option>
                 <option value='1'>2-persoons corona proof</option>
                 <option value='2'>1-persoons met extra joy</option>
-                <option value='3'>2 persoons met badkamer</option>   
+                <option value='3'>2 persoons met badkamer</option>
             </select><br/>
             <input type='submit' value='Verstuur'><br/>
         </form>
     </body>
 </html>
-
